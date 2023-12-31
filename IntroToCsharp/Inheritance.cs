@@ -1,5 +1,8 @@
 ﻿using System;
 
+// sealed keyword is used before class keyword to avoid inheritance from that class
+// e.g. public sealed class Employee {}
+
 //Mutiple Inheritance is not supported , 
 //    But Multiple Interface and multi-level Inheritance is supported
 

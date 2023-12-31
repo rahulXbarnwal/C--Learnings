@@ -46,11 +46,16 @@
     <Compile Include="Assignment_1.cs" />
     <Compile Include="Inheritance.cs" />
     <Compile Include="IntroToClasses.cs" />
+    <Compile Include="MethodHiding.cs" />
+    <Compile Include="MethodOverloading.cs" />
+    <Compile Include="OverridingVsHiding.cs" />
+    <Compile Include="Polymorphism.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReadingAndWriting.cs" />
     <Compile Include="StaticAndInstance.cs" />
     <Compile Include="StringType.cs" />
+    <Compile Include="Structs.cs" />
     <Compile Include="TypeConversion.cs" />
   </ItemGroup>
   <ItemGroup>
