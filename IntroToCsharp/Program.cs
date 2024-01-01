@@ -37,7 +37,16 @@ class Program
 
         //MethodOverloading.Func();
 
-        Structs structs = new Structs();
-        structs.Func();
+        //Structs structs = new Structs();
+        //structs.Func();
+
+        //Interfaces interfaces = new Interfaces();
+        //interfaces.Func();
+
+        //ExplicitInterfacesImplementation.Func();
+
+        //AbstractClasses.Func();
+
+        MultipleClassInheritanceUsingInterfaces.Func();
     }
 }

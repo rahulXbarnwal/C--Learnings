@@ -43,11 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractClasses.cs" />
+    <Compile Include="AbstractClassesVsInterfaces.cs" />
     <Compile Include="Assignment_1.cs" />
+    <Compile Include="DiamondProblem.cs" />
+    <Compile Include="ExplicitInterfacesImplementation.cs" />
     <Compile Include="Inheritance.cs" />
+    <Compile Include="Interfaces.cs" />
     <Compile Include="IntroToClasses.cs" />
     <Compile Include="MethodHiding.cs" />
     <Compile Include="MethodOverloading.cs" />
+    <Compile Include="MultipleClassInheritanceUsingInterfaces.cs" />
     <Compile Include="OverridingVsHiding.cs" />
     <Compile Include="Polymorphism.cs" />
     <Compile Include="Program.cs" />
