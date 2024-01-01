@@ -46,6 +46,8 @@
     <Compile Include="AbstractClasses.cs" />
     <Compile Include="AbstractClassesVsInterfaces.cs" />
     <Compile Include="Assignment_1.cs" />
+    <Compile Include="Delegates.cs" />
+    <Compile Include="DelegatesUsage.cs" />
     <Compile Include="DiamondProblem.cs" />
     <Compile Include="ExplicitInterfacesImplementation.cs" />
     <Compile Include="Inheritance.cs" />
@@ -53,6 +55,7 @@
     <Compile Include="IntroToClasses.cs" />
     <Compile Include="MethodHiding.cs" />
     <Compile Include="MethodOverloading.cs" />
+    <Compile Include="MulticastDelegates.cs" />
     <Compile Include="MultipleClassInheritanceUsingInterfaces.cs" />
     <Compile Include="OverridingVsHiding.cs" />
     <Compile Include="Polymorphism.cs" />

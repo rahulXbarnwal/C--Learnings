@@ -47,6 +47,10 @@ class Program
 
         //AbstractClasses.Func();
 
-        MultipleClassInheritanceUsingInterfaces.Func();
+        //MultipleClassInheritanceUsingInterfaces.Func();
+
+        //DelegatesUsage.Func();
+
+        MulticastDelegates.Func();
     }
 }
