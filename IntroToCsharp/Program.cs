@@ -51,6 +51,16 @@ class Program
 
         //DelegatesUsage.Func();
 
-        MulticastDelegates.Func();
+        //MulticastDelegates.Func();
+
+        //ExceptionalHandling.Func();
+
+        //InnerException.Func();
+
+        //CustomException.Func();
+
+        //ExceptionHandlingAbuse.Func();
+
+        PreventingExceptionHandlingAbuse.Func();
     }
 }

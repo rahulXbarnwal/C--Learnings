@@ -12,3 +12,10 @@ C:\Users\rahul\OneDrive\Desktop\C#\CSharp\IntroToCsharp\obj\Debug\IntroToCsharp.
 C:\Users\rahul\OneDrive\Desktop\C#\CSharp\IntroToCsharp\obj\Debug\IntroToCsharp.csproj.CoreCompileInputs.cache
 C:\Users\rahul\OneDrive\Desktop\C#\CSharp\IntroToCsharp\obj\Debug\IntroToCsharp.exe
 C:\Users\rahul\OneDrive\Desktop\C#\CSharp\IntroToCsharp\obj\Debug\IntroToCsharp.pdb
+C:\Users\Rahul\Desktop\C#\C-Sharp-Learnings\IntroToCsharp\bin\Debug\IntroToCsharp.exe.config
+C:\Users\Rahul\Desktop\C#\C-Sharp-Learnings\IntroToCsharp\bin\Debug\IntroToCsharp.exe
+C:\Users\Rahul\Desktop\C#\C-Sharp-Learnings\IntroToCsharp\bin\Debug\IntroToCsharp.pdb
+C:\Users\Rahul\Desktop\C#\C-Sharp-Learnings\IntroToCsharp\obj\Debug\IntroToCsharp.csproj.AssemblyReference.cache
+C:\Users\Rahul\Desktop\C#\C-Sharp-Learnings\IntroToCsharp\obj\Debug\IntroToCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Desktop\C#\C-Sharp-Learnings\IntroToCsharp\obj\Debug\IntroToCsharp.exe
+C:\Users\Rahul\Desktop\C#\C-Sharp-Learnings\IntroToCsharp\obj\Debug\IntroToCsharp.pdb
