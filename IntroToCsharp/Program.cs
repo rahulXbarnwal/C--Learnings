@@ -61,6 +61,16 @@ class Program
 
         //ExceptionHandlingAbuse.Func();
 
-        PreventingExceptionHandlingAbuse.Func();
+        //PreventingExceptionHandlingAbuse.Func();
+
+        //WhyEnums.Func();
+
+        //EnumsExample.Func();
+
+        //Enums.Func();
+
+        //Attributes.Func();
+
+        Reflection.Func();
     }
 }
