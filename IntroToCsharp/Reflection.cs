@@ -14,9 +14,9 @@ namespace IntroToCsharp
         {
             //Type T = Type.GetType("IntroToCsharp.ClassOfCustomer");
 
-            //Type T = typeof(ClassCustomer);
+            //Type T = typeof(ClassOfCustomer);
 
-            ClassCustomer C1 = new ClassCustomer();
+            ClassOfCustomer C1 = new ClassOfCustomer();
             Type T = C1.GetType();
 
             Console.WriteLine("Full Name = {0}", T.FullName);

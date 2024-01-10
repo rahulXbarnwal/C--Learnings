@@ -71,6 +71,16 @@ class Program
 
         //Attributes.Func();
 
-        Reflection.Func();
+        //Reflection.Func();
+
+        //LateBinding.Func();
+
+        //Generics.Func();
+
+        //EqualsOverriding.Func();
+
+        //ConvertToStringVSToString.Func();
+
+        StringVSStringBuilder.Func();
     }
 }
