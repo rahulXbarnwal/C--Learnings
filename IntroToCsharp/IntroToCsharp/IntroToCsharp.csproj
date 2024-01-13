@@ -68,6 +68,7 @@
     <Compile Include="MethodOverloading.cs" />
     <Compile Include="MulticastDelegates.cs" />
     <Compile Include="MultipleClassInheritanceUsingInterfaces.cs" />
+    <Compile Include="OptionalParameter.cs" />
     <Compile Include="OverridingVsHiding.cs" />
     <Compile Include="Polymorphism.cs" />
     <Compile Include="PreventingExceptionHandlingAbuse.cs" />
