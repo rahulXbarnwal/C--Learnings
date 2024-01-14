@@ -52,6 +52,7 @@
     <Compile Include="Delegates.cs" />
     <Compile Include="DelegatesUsage.cs" />
     <Compile Include="DiamondProblem.cs" />
+    <Compile Include="Dictionary.cs" />
     <Compile Include="Enums.cs" />
     <Compile Include="EnumsExample.cs" />
     <Compile Include="EqualsOverriding.cs" />
