@@ -46,6 +46,7 @@
     <Compile Include="AbstractClasses.cs" />
     <Compile Include="AbstractClassesVsInterfaces.cs" />
     <Compile Include="Assignment_1.cs" />
+    <Compile Include="Assignment_2.cs" />
     <Compile Include="Attributes.cs" />
     <Compile Include="ConvertToStringVSToString.cs" />
     <Compile Include="CustomException.cs" />
@@ -59,12 +60,14 @@
     <Compile Include="ExceptionalHandling.cs" />
     <Compile Include="ExceptionHandlingAbuse.cs" />
     <Compile Include="ExplicitInterfacesImplementation.cs" />
+    <Compile Include="GenericListClassAndRanges.cs" />
     <Compile Include="Generics.cs" />
     <Compile Include="Inheritance.cs" />
     <Compile Include="InnerException.cs" />
     <Compile Include="Interfaces.cs" />
     <Compile Include="IntroToClasses.cs" />
     <Compile Include="LateBinding.cs" />
+    <Compile Include="ListCollectionClass.cs" />
     <Compile Include="MethodHiding.cs" />
     <Compile Include="MethodOverloading.cs" />
     <Compile Include="MulticastDelegates.cs" />

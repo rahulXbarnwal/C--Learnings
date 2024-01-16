@@ -85,6 +85,12 @@ class Program
 
         //OptionalParameter.Func();
 
-        Dictionary.Func();
+        //Dictionary.Func();
+
+        //ListCollectionClass.Func();
+
+        //GenericListClassAndRanges.Func();
+
+        Assignment_2.Func();
     }
 }
