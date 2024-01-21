@@ -80,11 +80,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReadingAndWriting.cs" />
     <Compile Include="Reflection.cs" />
+    <Compile Include="SomeUsefulMethodsOfListCollectionClass.cs" />
+    <Compile Include="SortListOfComplexTypes.cs" />
+    <Compile Include="SortListOfSimpleTypes.cs" />
     <Compile Include="StaticAndInstance.cs" />
     <Compile Include="StringType.cs" />
     <Compile Include="StringVSStringBuilder.cs" />
     <Compile Include="Structs.cs" />
     <Compile Include="TypeConversion.cs" />
+    <Compile Include="WhenToUseDictOverList.cs" />
     <Compile Include="WhyEnums.cs" />
   </ItemGroup>
   <ItemGroup>

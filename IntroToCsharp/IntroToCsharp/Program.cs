@@ -91,6 +91,14 @@ class Program
 
         //GenericListClassAndRanges.Func();
 
-        Assignment_2.Func();
+        //Assignment_2.Func();
+
+        //SortListOfSimpleTypes.Func();
+
+        //SortListOfComplexTypes.Func();
+
+        //SomeUsefulMethodsOfListCollectionClass.Func();
+
+        WhenToUseDictOverList.Func();
     }
 }

@@ -12,9 +12,9 @@ namespace IntroToCsharp
         {
             //FibonacciSeries();
             //ReverseString();
-            //SortArray();
-            double ans = PerformOperation(2, 4, "add");
-            Console.WriteLine(ans);
+            SortArray();
+            //double ans = PerformOperation(2, 4, "add");
+            //Console.WriteLine(ans);
         }
         public static void FibonacciSeries()
         {
@@ -39,6 +39,12 @@ namespace IntroToCsharp
             int i = s.Length - 1;
             while(i >= 0) reversedS += s[i--];
             Console.WriteLine(reversedS);
+
+            //int i = 0, j = s.Length - 1;
+            //while(i < j)
+            //{
+                
+            //}
         }
         public static void SortArray()
         {
